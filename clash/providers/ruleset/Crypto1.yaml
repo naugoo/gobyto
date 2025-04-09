@@ -8,6 +8,8 @@ payload:
   - DOMAIN-SUFFIX,tomoscan.io
   - DOMAIN-SUFFIX,tomochain.com
   - DOMAIN-SUFFIX,rabby.io
+  # mexc
+  - DOMAIN,contract.mexc.com
   # gateio
   - DOMAIN-SUFFIX,gate.io
   - DOMAIN-KEYWORD,gateio
