@@ -1,0 +1,64 @@
+payload:
+# github
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,gitbook.com
+  - DOMAIN-SUFFIX,gitbook.io
+# develop
+  - DOMAIN-KEYWORD,notepad
+  - DOMAIN-KEYWORD,sourceforge
+  - DOMAIN-SUFFIX,python.org
+  - DOMAIN-SUFFIX,anaconda.com
+  - DOMAIN-SUFFIX,ubuntu.com
+  - DOMAIN-SUFFIX,godaddy.com
+  - DOMAIN-SUFFIX,wolframalpha.com
+  - DOMAIN-SUFFIX,redis.io
+  - DOMAIN-SUFFIX,camunda.com
+  - DOMAIN-SUFFIX,activiti.org
+  - DOMAIN-SUFFIX,filehorse.com
+  - DOMAIN-SUFFIX,wintun.net
+# other
+  - DOMAIN-SUFFIX,id9.cc
+  - DOMAIN,api.dler.io
+  - DOMAIN-KEYWORD,v2ex
+  - DOMAIN-KEYWORD,wisecleaner
+  - DOMAIN-SUFFIX,bugsnag.com
+  - DOMAIN-SUFFIX,unpkg.com
+  - DOMAIN-SUFFIX,onetrust.com
+  - DOMAIN-SUFFIX,rapidssl.com
+  - DOMAIN-KEYWORD,bitwarden
+  - DOMAIN-SUFFIX,darkreader.org
+# blog
+  - DOMAIN-SUFFIX,qichiyu.com
+  - DOMAIN-KEYWORD,bulianglin.com
+  - DOMAIN-KEYWORD,ahhhhfs.com
+  # ai application
+  - DOMAIN-SUFFIX,trancy.org
+  - DOMAIN-SUFFIX,relingo.net
+  # porn
+  - DOMAIN-SUFFIX,2006ck.cc
+  - DOMAIN-SUFFIX,920ck.us
+  - DOMAIN-SUFFIX,888tttz.com
+  - DOMAIN-KEYWORD,thz.com
+  - DOMAIN-SUFFIX,thz4.sbs
+  - DOMAIN-SUFFIX,thz3.sbs
+  - DOMAIN-SUFFIX,thzu.cc
+  - DOMAIN-SUFFIX,thzt.cc
+  - DOMAIN-SUFFIX,thzi.cc
+  - DOMAIN-SUFFIX,thzc.cc
+  - DOMAIN-SUFFIX,x999x.me
+  - DOMAIN-SUFFIX,x1080x.com
+  - DOMAIN-SUFFIX,x555x.me
+  - DOMAIN-SUFFIX,ssssjav.com
+  - DOMAIN-KEYWORD,11jav
+  - DOMAIN-SUFFIX,11jav.com
+  - DOMAIN-SUFFIX,11jav.xyz
+  - DOMAIN-SUFFIX,jav8.net
+  - DOMAIN-KEYWORD,wansese
+  - DOMAIN-SUFFIX,wansese1.com
+  - DOMAIN-SUFFIX,wansese.com
+  - DOMAIN-SUFFIX,missav.com
+  - DOMAIN-SUFFIX,9milk.com
+  - DOMAIN-SUFFIX,6969bt.com
+  - DOMAIN-SUFFIX,yj2212.cc
+  - DOMAIN-KEYWORD,hsck
+  - DOMAIN-KEYWORD,mp4ba

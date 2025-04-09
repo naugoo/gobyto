@@ -1,0 +1,18 @@
+payload:
+  # x
+  - DOMAIN-SUFFIX,x.com
+  - DOMAIN-SUFFIX,tunefind.com
+  # 微软
+  - DOMAIN-SUFFIX,appcenter.ms
+  - DOMAIN-SUFFIX,llnwi.net
+  - DOMAIN-SUFFIX,xboxlive.com
+  - DOMAIN-SUFFIX,xboxab.com
+  - DOMAIN-SUFFIX,xboxservices.com
+  # 其他
+  - DOMAIN-KEYWORD,liveperson
+  - DOMAIN-KEYWORD,amazon
+  - DOMAIN-SUFFIX,quicklaunch.io
+  - DOMAIN-SUFFIX,tulsacc.edu
+  - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-KEYWORD,leetcode
+  - DOMAIN-SUFFIX,coinbase.com
