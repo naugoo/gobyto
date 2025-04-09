@@ -25,6 +25,7 @@ payload:
   - DOMAIN-KEYWORD,etherscan
   - DOMAIN-SUFFIX,bitcoin.org
   - DOMAIN-SUFFIX,coinmarketcap.com
+  - DOMAIN-SUFFIX,cmcap.io
   - DOMAIN-SUFFIX,coingecko.com
   - DOMAIN-KEYWORD,gcko
   - DOMAIN-SUFFIX,aicoin.com
