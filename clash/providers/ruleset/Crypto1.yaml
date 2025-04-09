@@ -24,7 +24,6 @@ payload:
   - DOMAIN-SUFFIX,btc.mom
   - DOMAIN-SUFFIX,messari.io
   - DOMAIN-SUFFIX,worldcoin.org
-  - DOMAIN-SUFFIX,thepinet.com
   - DOMAIN-SUFFIX,infura.io
   - DOMAIN-SUFFIX,panewslab.com
   - DOMAIN-SUFFIX,digicert.com
@@ -41,7 +40,6 @@ payload:
   - DOMAIN-SUFFIX,blockscan.com
   - DOMAIN-SUFFIX,talentprotocol.com
   - DOMAIN-SUFFIX,monaconft.io
-  - DOMAIN-SUFFIX,coinbase.com
   - DOMAIN-SUFFIX,renderfoundation.com
   - DOMAIN-SUFFIX,combonetwork.io
   - DOMAIN-KEYWORD,bitstreamonline
