@@ -1,16 +1,13 @@
 payload:
-  # high speed
+  # other high speed
   # - IP-CIDR,8.216.89.7/32,no-resolve
   - IP-CIDR,38.54.88.225/32,no-resolve
-  # crypto
-  - DOMAIN-SUFFIX,debank.com
-  - DOMAIN-SUFFIX,codefi.network
-  - DOMAIN-SUFFIX,tomoscan.io
-  - DOMAIN-SUFFIX,tomochain.com
-  - DOMAIN-SUFFIX,rabby.io
-  # mexc
+  # crypto binance
+  - DOMAIN-SUFFIX,binance.com
+  - DOMAIN-SUFFIX,binance.org
+  # crypto mexc
   - DOMAIN,contract.mexc.com
-  # gateio
+  # crypto gateio
   - DOMAIN-SUFFIX,gate.io
   - DOMAIN-KEYWORD,gateio
   - DOMAIN-SUFFIX,gaterelay.com
@@ -19,9 +16,34 @@ payload:
   - DOMAIN-SUFFIX,gatebigdata.com
   - DOMAIN-SUFFIX,gatenft.io
   - DOMAIN-KEYWORD,gateex
-  # crypto other
+  # crypto pionex
+  - DOMAIN-SUFFIX,pionex.com
+  - DOMAIN,pionex.zendesk.com
+  - DOMAIN-SUFFIX,pioneerex.org
+  # crypto
+  - DOMAIN-SUFFIX,bscscan.com
+  - DOMAIN-KEYWORD,etherscan
+  - DOMAIN-SUFFIX,bitcoin.org
+  - DOMAIN-SUFFIX,coinmarketcap.com
+  - DOMAIN-SUFFIX,coingecko.com
+  - DOMAIN-KEYWORD,gcko
+  - DOMAIN-SUFFIX,aicoin.com
+  - DOMAIN-KEYWORD,theblockbeats
+  - DOMAIN-KEYWORD,phantom
+  - DOMAIN-KEYWORD,metamask
+  - DOMAIN-KEYWORD,solana
+  - DOMAIN-KEYWORD,tokenterminal
+  - DOMAIN-KEYWORD,glassnode
+  - DOMAIN-KEYWORD,defillama
+  - DOMAIN-SUFFIX,geckoterminal.com
+  - DOMAIN-SUFFIX,dune.xyz
+  - DOMAIN-SUFFIX,dune.com
+  - DOMAIN-SUFFIX,debank.com
+  - DOMAIN-SUFFIX,codefi.network
+  - DOMAIN-SUFFIX,tomoscan.io
+  - DOMAIN-SUFFIX,tomochain.com
+  - DOMAIN-SUFFIX,rabby.io
   - DOMAIN-SUFFIX,kaia.io
-  - DOMAIN-SUFFIX,btc.mom
   - DOMAIN-SUFFIX,messari.io
   - DOMAIN-SUFFIX,worldcoin.org
   - DOMAIN-SUFFIX,infura.io
@@ -50,68 +72,47 @@ payload:
   - DOMAIN-SUFFIX,walletlink.org
   - DOMAIN-SUFFIX,gemini.com
   - DOMAIN-SUFFIX,walletconnect.org
-  - DOMAIN-SUFFIX,binance.org
   - DOMAIN-SUFFIX,1inch.io
   - DOMAIN-SUFFIX,moonbeam.network
   - DOMAIN-SUFFIX,eosnetwork.com
-  - DOMAIN-SUFFIX,metis.io
   - DOMAIN-SUFFIX,ninicoin.io
   - DOMAIN-SUFFIX,sushi.com
   - DOMAIN-KEYWORD,raydium
   - DOMAIN-KEYWORD,zigzag
   - DOMAIN-SUFFIX,makerdao.com
   - DOMAIN-KEYWORD,rabbithole
-  - DOMAIN-SUFFIX,ftm.tools
   - DOMAIN-SUFFIX,avax.network
   - DOMAIN-SUFFIX,aave.com
   - DOMAIN-KEYWORD,synapseprotocol
-  - DOMAIN-SUFFIX,binance.com
   - DOMAIN-KEYWORD,magicfund
   - DOMAIN-KEYWORD,dextools
   - DOMAIN-KEYWORD,zapper
-  - DOMAIN-KEYWORD,tokenterminal
-  - DOMAIN-KEYWORD,glassnode
-  - DOMAIN-SUFFIX,defillama.com
-  - DOMAIN-KEYWORD,defillama
   - DOMAIN-KEYWORD,primetrust
   - DOMAIN-SUFFIX,chainnews.com
-  - DOMAIN-KEYWORD,theblockbeats
   - DOMAIN-KEYWORD,upbit
   - DOMAIN-SUFFIX,chainlist.org
-  - DOMAIN-SUFFIX,dune.xyz
-  - DOMAIN-SUFFIX,dune.com
   - DOMAIN-SUFFIX,mtsnft.xyz
   - DOMAIN-KEYWORD,rarible
   - DOMAIN-SUFFIX,x2y2.io
   - DOMAIN-KEYWORD,opensea
   - DOMAIN-KEYWORD,looksrare
   - DOMAIN-KEYWORD,metaversealliance
-  - DOMAIN-SUFFIX,bscscan.com
-  - DOMAIN-SUFFIX,bitcoin.org
   - DOMAIN-SUFFIX,immutable.com
   - DOMAIN-SUFFIX,gala.games
   - DOMAIN-SUFFIX,chromia.com
   - DOMAIN-KEYWORD,bonfida
   - DOMAIN-KEYWORD,tornadocash
   - DOMAIN-SUFFIX,paxos.com
-  - DOMAIN-KEYWORD,paxos
   - DOMAIN-SUFFIX,monkedao.io
   - DOMAIN-SUFFIX,magiceden.io
   - DOMAIN-SUFFIX,orca.so
   - DOMAIN-SUFFIX,staratlas.com
   - DOMAIN-SUFFIX,dagora.xyz
-  - DOMAIN-KEYWORD,phantom
   - DOMAIN-SUFFIX,okcoin.com
-  - DOMAIN-SUFFIX,aicoin.com
-  - DOMAIN-KEYWORD,fantom
   - DOMAIN-KEYWORD,paraswap
   - DOMAIN-KEYWORD,pancakeswap
-  - DOMAIN-SUFFIX,coinmarketcap.com
-  - DOMAIN-SUFFIX,coingecko.com
-  - DOMAIN-SUFFIX,geckoterminal.com
   - DOMAIN-SUFFIX,uniswap.org
   - DOMAIN-KEYWORD,unmineable
-  - DOMAIN-KEYWORD,etherscan
   - DOMAIN-SUFFIX,mirror.xyz
   - DOMAIN-KEYWORD,mirror
   - DOMAIN-SUFFIX,supportxmr
@@ -122,7 +123,4 @@ payload:
   - DOMAIN-KEYWORD,tokenpocket
   - DOMAIN-KEYWORD,coin98
   - DOMAIN-KEYWORD,arbitrum
-  - DOMAIN-KEYWORD,gcko
   - DOMAIN-KEYWORD,metafi
-  - DOMAIN-KEYWORD,metamask
-  - DOMAIN-KEYWORD,solana
