@@ -1,0 +1,4 @@
+payload:
+  # okx exchange
+  - DOMAIN-SUFFIX,okx-dv.net
+  - DOMAIN-KEYWORD,okx.com
