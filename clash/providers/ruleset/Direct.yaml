@@ -1,0 +1,28 @@
+payload:
+  - DOMAIN,time.windows.com
+  # pionex cex
+  - DOMAIN-SUFFIX,pionex.com
+  - DOMAIN-SUFFIX,pioneerex.org
+
+  - DOMAIN-SUFFIX,yjys02.com
+  - DOMAIN-SUFFIX,codecguide.com
+  - DOMAIN-SUFFIX,allawnofs.com
+  - DOMAIN-SUFFIX,futuhk.com
+  - IP-CIDR,38.54.119.199/32,no-resolve
+  - DOMAIN-SUFFIX,futunn.com
+  - DOMAIN-SUFFIX,futufin.com
+  - DOMAIN-SUFFIX,pages.dev
+  - DOMAIN,n3.leensasub.us
+  - DOMAIN-SUFFIX,freedidi.com
+  - DOMAIN-SUFFIX,vk.ru
+  - DOMAIN-SUFFIX,vk.com
+  - DOMAIN-SUFFIX,itigerup.com
+  - DOMAIN-SUFFIX,tigersecurities.com
+  - DOMAIN-KEYWORD,rockstargames
+  - DOMAIN-SUFFIX,hitman.io
+
+  # finaince
+  - DOMAIN-SUFFIX,laohu8.com
+  - DOMAIN-SUFFIX,velobank.com
+  - DOMAIN-SUFFIX,eastwestbank.com
+
