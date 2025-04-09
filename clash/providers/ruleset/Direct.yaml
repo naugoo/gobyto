@@ -1,8 +1,7 @@
 payload:
   - DOMAIN,time.windows.com
-  # pionex cex
-  - DOMAIN-SUFFIX,pionex.com
-  - DOMAIN-SUFFIX,pioneerex.org
+  # pionex app url
+  - DOMAIN-SUFFIX,thepinet.com
   # mexc app url
   - DOMAIN-SUFFIX,mexcsensors.com
 
