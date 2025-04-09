@@ -3,6 +3,8 @@ payload:
   # pionex cex
   - DOMAIN-SUFFIX,pionex.com
   - DOMAIN-SUFFIX,pioneerex.org
+  # mexc app url
+  - DOMAIN-SUFFIX,mexcsensors.com
 
   - DOMAIN-SUFFIX,yjys02.com
   - DOMAIN-SUFFIX,codecguide.com
