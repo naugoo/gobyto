@@ -28,6 +28,7 @@ payload:
   - DOMAIN-KEYWORD,bitwarden
   - DOMAIN-SUFFIX,darkreader.org
   - DOMAIN-SUFFIX,ipfri.com
+  - DOMAIN-SUFFIX,ipify.org
 # blog
   - DOMAIN-SUFFIX,qichiyu.com
   - DOMAIN-KEYWORD,bulianglin.com
