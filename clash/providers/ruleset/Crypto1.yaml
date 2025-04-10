@@ -5,6 +5,17 @@ payload:
   # crypto binance
   - DOMAIN-SUFFIX,binance.com
   - DOMAIN-SUFFIX,binance.org
+  - DOMAIN-SUFFIX,saasexch.com
+  - DOMAIN-SUFFIX,saasexch.cc
+  - DOMAIN-SUFFIX,appsflayer.com
+  - DOMAIN-SUFFIX,binance.cloud
+  - DOMAIN-SUFFIX,binance.me
+  - DOMAIN-SUFFIX,binancecnt.com
+  - DOMAIN-SUFFIX,binancefuture.com
+  - DOMAIN-SUFFIX,bnappzh.co
+  - DOMAIN-SUFFIX,bnbstatic.com
+  - DOMAIN-SUFFIX,bnbzh.ac
+  - DOMAIN-SUFFIX,bntrace.com
   # crypto mexc
   - DOMAIN,contract.mexc.com
   # crypto gateio
