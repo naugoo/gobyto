@@ -3,8 +3,10 @@ payload:
   # - IP-CIDR,8.216.89.7/32,no-resolve
   - IP-CIDR,38.54.88.225/32,no-resolve
   # crypto binance
+  - DOMAIN-KEYWORD,binance
   - DOMAIN-SUFFIX,binance.com
   - DOMAIN-SUFFIX,binance.org
+  - DOMAIN-SUFFIX,binance.info
   - DOMAIN-KEYWORD,saasexch
   - DOMAIN-SUFFIX,bntrace.com
   - DOMAIN-SUFFIX,appsflayer.com
