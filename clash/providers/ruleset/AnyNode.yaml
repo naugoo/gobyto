@@ -27,6 +27,7 @@ payload:
   - DOMAIN-SUFFIX,rapidssl.com
   - DOMAIN-KEYWORD,bitwarden
   - DOMAIN-SUFFIX,darkreader.org
+  - DOMAIN-SUFFIX,ipfri.com
 # blog
   - DOMAIN-SUFFIX,qichiyu.com
   - DOMAIN-KEYWORD,bulianglin.com
