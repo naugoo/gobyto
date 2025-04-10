@@ -1,4 +1,6 @@
 payload:
+# oneplus
+  - DOMAIN-SUFFIX,heytapmobile.com
   - DOMAIN-KEYWORD,bocchi
 # github
   - DOMAIN-SUFFIX,github.com
