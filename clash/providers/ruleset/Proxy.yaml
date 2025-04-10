@@ -1,8 +1,5 @@
 payload:
   - DOMAIN-KEYWORD,bocchi
-# google
-  - DOMAIN-KEYWORD,googleapis
-  - DOMAIN-KEYWORD,google-analytics.com
 # github
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,cloudfront.net
