@@ -82,7 +82,6 @@ payload:
   - DOMAIN-SUFFIX,lencr.org
   - DOMAIN-SUFFIX,cryptocompare.com
   - DOMAIN-SUFFIX,walletlink.org
-  - DOMAIN-SUFFIX,gemini.com
   - DOMAIN-SUFFIX,walletconnect.org
   - DOMAIN-SUFFIX,1inch.io
   - DOMAIN-SUFFIX,moonbeam.network
