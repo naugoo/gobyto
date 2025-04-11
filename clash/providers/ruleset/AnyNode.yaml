@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,filehorse.com
   - DOMAIN-SUFFIX,wintun.net
 # other
+  - DOMAIN-SUFFIX,openwebtorrent.com
   - DOMAIN-SUFFIX,id9.cc
   - DOMAIN,api.dler.io
   - DOMAIN-KEYWORD,v2ex
