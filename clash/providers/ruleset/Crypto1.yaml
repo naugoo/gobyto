@@ -19,6 +19,8 @@ payload:
   - DOMAIN-SUFFIX,bnbzh.ac
   # crypto mexc
   - DOMAIN,contract.mexc.com
+  # crypto: mexc app url
+  - DOMAIN-SUFFIX,mexcsensors.com
   # crypto gateio
   - DOMAIN-SUFFIX,gate.io
   - DOMAIN-KEYWORD,gateio
