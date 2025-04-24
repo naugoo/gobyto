@@ -19,6 +19,7 @@ payload:
 # other
   - DOMAIN-SUFFIX,openwebtorrent.com
   - DOMAIN-SUFFIX,id9.cc
+  - DOMAIN,bocchi.ooo
   - DOMAIN,api.dler.io
   - DOMAIN-KEYWORD,v2ex
   - DOMAIN-KEYWORD,wisecleaner
