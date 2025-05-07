@@ -5,7 +5,7 @@ payload:
   # crypto: pionex app url
   - DOMAIN-SUFFIX,thepinet.com
   # crypto: mexc app url
-  - DOMAIN-SUFFIX,mexcsensors.com
+  # - DOMAIN-SUFFIX,mexcsensors.com
   # finaince
   # 老虎证券
   - DOMAIN-SUFFIX,laohu8.com
