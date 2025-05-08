@@ -36,6 +36,7 @@ payload:
   - DOMAIN,pionex.zendesk.com
   - DOMAIN-SUFFIX,pioneerex.org
   # crypto
+  - DOMAIN-SUFFIX,transit.finance
   - DOMAIN-SUFFIX,bscscan.com
   - DOMAIN-KEYWORD,etherscan
   - DOMAIN-SUFFIX,bitcoin.org
