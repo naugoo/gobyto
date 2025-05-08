@@ -47,7 +47,6 @@ payload:
   - DOMAIN-SUFFIX,ift.tt
   - DOMAIN-SUFFIX,deepl.com
   - DOMAIN-SUFFIX,owenyoung.com
-  - DOMAIN-SUFFIX,internetdownloadmanager.com
   - DOMAIN-SUFFIX,crowdcast.io
   - DOMAIN-KEYWORD,pixiv
   - DOMAIN-SUFFIX,etfrc.com
@@ -71,6 +70,9 @@ payload:
   - DOMAIN-SUFFIX,bbrave.com
   - DOMAIN-SUFFIX,msftncsi.com
   - DOMAIN-SUFFIX,msftconnecttest.com
+  - DOMAIN-SUFFIX,microsoftedgeinsider.com
+  - DOMAIN-SUFFIX,microsofttranslator.com
+  - DOMAIN,translator.microsoft.com
   # 开发
   - DOMAIN-SUFFIX,sagernet.org
   - DOMAIN-SUFFIX,telerik.com
@@ -86,9 +88,6 @@ payload:
   - DOMAIN-SUFFIX,mikrotik.com
   - DOMAIN-SUFFIX,replit.com
   - DOMAIN-SUFFIX,jfrog.io
-  - DOMAIN-SUFFIX,microsoftedgeinsider.com
-  - DOMAIN-SUFFIX,microsofttranslator.com
-  - DOMAIN,translator.microsoft.com
   - DOMAIN-SUFFIX,imgur.com
   - DOMAIN-KEYWORD,wordpress
   - DOMAIN-KEYWORD,lightnode

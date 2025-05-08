@@ -1,4 +1,6 @@
 payload:
+  # finance
+  - DOMAIN-SUFFIX,interactivebrokers.com
   - DOMAIN-SUFFIX,ibkr.com
   # x
   - DOMAIN-SUFFIX,x.com
