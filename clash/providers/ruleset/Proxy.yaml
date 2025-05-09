@@ -1,4 +1,6 @@
 payload:
+# finance
+  - DOMAIN-SUFFIX,longbridge.com
 # oneplus
   - DOMAIN-SUFFIX,heytapmobile.com
   - DOMAIN-KEYWORD,bocchi
