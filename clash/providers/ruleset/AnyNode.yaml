@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,filehorse.com
   - DOMAIN-SUFFIX,wintun.net
 # other
+  - DOMAIN-SUFFIX,obsproject.com
   - DOMAIN-SUFFIX,openwebtorrent.com
   - DOMAIN-SUFFIX,internetdownloadmanager.com
   - DOMAIN-SUFFIX,id9.cc
