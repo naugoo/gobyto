@@ -17,6 +17,9 @@ payload:
   - DOMAIN-SUFFIX,bnappzh.co
   - DOMAIN-SUFFIX,bnbstatic.com
   - DOMAIN-SUFFIX,bnbzh.ac
+  # crypto kraken
+  - DOMAIN-SUFFIX,kraken.com
+  - DOMAIN-KEYWORD,kraken
   # crypto mexc
   - DOMAIN-SUFFIX,mexcsensors.com
   - DOMAIN-SUFFIX,mexc.co
