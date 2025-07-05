@@ -18,6 +18,7 @@ payload:
   - DOMAIN-SUFFIX,filehorse.com
   - DOMAIN-SUFFIX,wintun.net
 # other
+  - DOMAIN-SUFFIX,yysub.cc
   - DOMAIN-SUFFIX,1lou.me
   - DOMAIN-SUFFIX,ext.to
   - DOMAIN-SUFFIX,obsproject.com
