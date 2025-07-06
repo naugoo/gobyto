@@ -20,6 +20,8 @@ payload:
   # crypto kraken
   - DOMAIN-SUFFIX,kraken.com
   - DOMAIN-KEYWORD,kraken
+  # crypto bybit
+  - DOMAIN-SUFFIX,bybit.com
   # crypto mexc
   - DOMAIN-SUFFIX,mexcsensors.com
   - DOMAIN-SUFFIX,mexc.co
