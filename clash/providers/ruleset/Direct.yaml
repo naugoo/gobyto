@@ -29,6 +29,9 @@ payload:
   - DOMAIN-SUFFIX,fusionbank.com
   # WeLab Bank (汇立)
   - DOMAIN-SUFFIX,welab.bank
+  # WeLab Bank (平安一账通)
+  - DOMAIN,mobilebanking.paob.com.hk
+  - DOMAIN-SUFFIX,paob.com.hk
   # futu
   - DOMAIN-SUFFIX,futuhk.com
   - DOMAIN-SUFFIX,futunn.com
