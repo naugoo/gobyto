@@ -8,6 +8,7 @@ payload:
 # github
   - DOMAIN-SUFFIX,github.com
 # other
+  - DOMAIN-SUFFIX,trello.com
   - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,iexcloud.io
   - DOMAIN-SUFFIX,dropbox.com
