@@ -7,6 +7,7 @@ payload:
   - DOMAIN-KEYWORD,bocchi
 # github
   - DOMAIN-SUFFIX,github.com
+# other
   - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,iexcloud.io
   - DOMAIN-SUFFIX,dropbox.com
@@ -77,6 +78,7 @@ payload:
   - DOMAIN-SUFFIX,microsofttranslator.com
   - DOMAIN,translator.microsoft.com
   # 开发
+  - DOMAIN-SUFFIX,atlassian.com
   - DOMAIN-SUFFIX,sagernet.org
   - DOMAIN-SUFFIX,telerik.com
   - DOMAIN-KEYWORD,docker
