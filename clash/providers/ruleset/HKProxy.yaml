@@ -1,0 +1,4 @@
+payload:
+  # PaoBank (平安一账通)
+  - DOMAIN,mobilebanking.paob.com.hk
+  - DOMAIN-SUFFIX,paob.com.hk
