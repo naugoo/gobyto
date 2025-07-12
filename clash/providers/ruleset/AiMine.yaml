@@ -4,7 +4,6 @@ payload:
   - DOMAIN-SUFFIX,dify.ai
   - DOMAIN-SUFFIX,aimetademolab.com
   - DOMAIN-SUFFIX,character.ai
-  - DOMAIN-SUFFIX,x.ai
   - DOMAIN-SUFFIX,impromptubook.com
   - DOMAIN-SUFFIX,vercel.ai
   - DOMAIN-SUFFIX,sentry.io
@@ -18,6 +17,9 @@ payload:
   - DOMAIN-SUFFIX,stablediffusionweb.com
   - DOMAIN-SUFFIX,poe.com
   - DOMAIN-SUFFIX,writesonic.com
+  # grok
+  - DOMAIN-SUFFIX,grok.com
+  - DOMAIN-SUFFIX,x.ai
   # bing
   - DOMAIN-SUFFIX,bingapis.com
   - DOMAIN-KEYWORD,bing.com
