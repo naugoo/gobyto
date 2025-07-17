@@ -1,4 +1,7 @@
 payload:
+  # 汇丰银行
+  - DOMAIN-SUFFIX,hsbc.com.hk
+  - DOMAIN-SUFFIX,hsbc.com
   # PaoBank (平安一账通)
   - DOMAIN,mobilebanking.paob.com.hk
   - DOMAIN-SUFFIX,paob.com.hk
