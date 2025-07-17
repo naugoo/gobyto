@@ -1,5 +1,5 @@
 payload:
-  # 汇丰银行
+  # 香港汇丰银行
   - DOMAIN-SUFFIX,hsbc.com.hk
   - DOMAIN-SUFFIX,hsbc.com
   - DOMAIN-KEYWORD,hsbcdigital
