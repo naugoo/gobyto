@@ -6,6 +6,7 @@ payload:
   # ZA Bank (众安)
   - DOMAIN-SUFFIX,zafinsvc.com
   - DOMAIN-SUFFIX,za.group
+  - DOMAIN-SUFFIX,zajourney.com
   # Airstar Bank (天星)
   - DOMAIN-SUFFIX,airstarbank.com
   # Ant Bank (蚂蚁)
