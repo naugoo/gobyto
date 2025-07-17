@@ -15,17 +15,6 @@ payload:
   # 华美银行
   - DOMAIN-SUFFIX,velobank.com
   - DOMAIN-SUFFIX,eastwestbank.com
-  # ZA Bank (众安)
-  - DOMAIN-SUFFIX,zafinsvc.com
-  - DOMAIN-SUFFIX,za.group
-  # Airstar Bank (天星)
-  - DOMAIN-SUFFIX,airstarbank.com
-  # Ant Bank (蚂蚁)
-  - DOMAIN-SUFFIX,antbank.hk
-  # Fusion Bank (富融)
-  - DOMAIN-SUFFIX,fusionbank.com
-  # WeLab Bank (汇立)
-  - DOMAIN-SUFFIX,welab.bank
   # PaoBank (平安一账通)
   # - DOMAIN,mobilebanking.paob.com.hk
   # - DOMAIN-SUFFIX,paob.com.hk
