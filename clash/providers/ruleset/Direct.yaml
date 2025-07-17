@@ -12,9 +12,6 @@ payload:
   - DOMAIN-SUFFIX,tigersecurities.com
   # 富途证券
   - DOMAIN-SUFFIX,fututrade.com
-  # 汇丰银行
-  - DOMAIN-SUFFIX,hsbc.com.hk
-  - DOMAIN-SUFFIX,hsbc.com
   # 华美银行
   - DOMAIN-SUFFIX,velobank.com
   - DOMAIN-SUFFIX,eastwestbank.com
