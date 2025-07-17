@@ -3,6 +3,8 @@ payload:
   - DOMAIN-SUFFIX,hsbc.com.hk
   - DOMAIN-SUFFIX,hsbc.com
   - DOMAIN-KEYWORD,hsbcdigital
+  # 中银香港
+  - DOMAIN-SUFFIX,bochk.com
   # ZA Bank (众安)
   - DOMAIN-SUFFIX,zafinsvc.com
   - DOMAIN-SUFFIX,za.group
