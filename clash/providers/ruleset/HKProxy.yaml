@@ -11,6 +11,7 @@ payload:
   - DOMAIN-SUFFIX,airstarbank.com
   # Ant Bank (蚂蚁)
   - DOMAIN-SUFFIX,antbank.hk
+  - DOMAIN-KEYWORD,ant-hkbank
   # Fusion Bank (富融)
   - DOMAIN-SUFFIX,fusionbank.com
   - DOMAIN-KEYWORD,fusion
