@@ -22,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,airstarbank.com
   # Ant Bank (蚂蚁)
   - DOMAIN-SUFFIX,antbank.hk
+  - DOMAIN-KEYWORD,antbank
   - DOMAIN-KEYWORD,ant-hkbank
   # social: vk
   - DOMAIN-SUFFIX,vk.ru
