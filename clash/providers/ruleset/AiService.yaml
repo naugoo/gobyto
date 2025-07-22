@@ -20,6 +20,8 @@ payload:
   # grok
   - DOMAIN-SUFFIX,grok.com
   - DOMAIN-SUFFIX,x.ai
+  # deepseek
+  - DOMAIN-SUFFIX,deepseek.com
   # bing
   - DOMAIN-SUFFIX,bingapis.com
   - DOMAIN-KEYWORD,bing.com
