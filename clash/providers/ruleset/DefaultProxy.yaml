@@ -4,10 +4,10 @@ payload:
   - DOMAIN-SUFFIX,longportapp.com
 # oneplus
   - DOMAIN-SUFFIX,heytapmobile.com
-  - DOMAIN-KEYWORD,bocchi
 # github
   - DOMAIN-SUFFIX,github.com
 # other
+  - DOMAIN-KEYWORD,bocchi
   - DOMAIN-SUFFIX,trello.com
   - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,iexcloud.io

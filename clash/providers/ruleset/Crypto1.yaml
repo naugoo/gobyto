@@ -1,19 +1,11 @@
 payload:
   # other high speed
   # - IP-CIDR,8.216.89.7/32,no-resolve
-  - IP-CIDR,38.54.88.225/32,no-resolve
   # crypto binance
   - DOMAIN-KEYWORD,binance
   - DOMAIN-KEYWORD,saasexch
   - DOMAIN-SUFFIX,bntrace.com
   - DOMAIN-SUFFIX,appsflayer.com
-  # - DOMAIN-SUFFIX,binance.com
-  # - DOMAIN-SUFFIX,binance.org
-  # - DOMAIN-SUFFIX,binance.info
-  # - DOMAIN-SUFFIX,binance.cloud
-  # - DOMAIN-SUFFIX,binance.me
-  # - DOMAIN-SUFFIX,binancecnt.com
-  # - DOMAIN-SUFFIX,binancefuture.com
   - DOMAIN-SUFFIX,bnappzh.co
   - DOMAIN-SUFFIX,bnbstatic.com
   - DOMAIN-SUFFIX,bnbzh.ac
