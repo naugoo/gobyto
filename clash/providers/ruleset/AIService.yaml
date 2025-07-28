@@ -22,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,x.ai
   # deepseek
   - DOMAIN-SUFFIX,deepseek.com
+  - DOMAIN-KEYWORD,deepseek
   # bing
   - DOMAIN-SUFFIX,bingapis.com
   - DOMAIN-KEYWORD,bing.com
