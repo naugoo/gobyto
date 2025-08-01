@@ -13,7 +13,6 @@ payload:
   - DOMAIN-SUFFIX,xboxservices.com
   # 其他
   - DOMAIN-SUFFIX,cloudflare.com
-  - DOMAIN-KEYWORD,amazon
   - DOMAIN-KEYWORD,leetcode
   - DOMAIN-SUFFIX,coinbase.com
   - DOMAIN-KEYWORD,liveperson
