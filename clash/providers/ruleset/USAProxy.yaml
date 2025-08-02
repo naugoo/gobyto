@@ -12,6 +12,8 @@ payload:
   - DOMAIN-SUFFIX,xboxab.com
   - DOMAIN-SUFFIX,xboxservices.com
   # 其他
+  - DOMAIN-SUFFIX,roblox.com
+  # 其他
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-KEYWORD,leetcode
   - DOMAIN-SUFFIX,coinbase.com
