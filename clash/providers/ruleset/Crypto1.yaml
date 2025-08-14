@@ -19,8 +19,9 @@ payload:
   - DOMAIN-SUFFIX,mexc.co
   - DOMAIN,contract.mexc.com
   - DOMAIN-KEYWORD,mexc
-  # crypto gateio
+  # crypto gate
   - DOMAIN-SUFFIX,gate.io
+  - DOMAIN-SUFFIX,gate.com
   - DOMAIN-KEYWORD,gateio
   - DOMAIN-SUFFIX,gaterelay.com
   - DOMAIN-SUFFIX,gateimg.com
