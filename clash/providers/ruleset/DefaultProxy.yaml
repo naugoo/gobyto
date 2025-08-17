@@ -7,7 +7,7 @@ payload:
 # github
   - DOMAIN-SUFFIX,github.com
 # other
-  - DOMAIN-KEYWORD,sms-activate
+  - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-KEYWORD,smsactivate
   - DOMAIN-KEYWORD,bocchi
   - DOMAIN-SUFFIX,trello.com
