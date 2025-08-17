@@ -45,6 +45,9 @@ payload:
   # ai application
   - DOMAIN-SUFFIX,trancy.org
   - DOMAIN-SUFFIX,relingo.net
+  # social: vk
+  - DOMAIN-SUFFIX,vk.ru
+  - DOMAIN-SUFFIX,vk.com
   # porn
   - DOMAIN-SUFFIX,034222.xyz
   - DOMAIN-SUFFIX,ck2025001.com

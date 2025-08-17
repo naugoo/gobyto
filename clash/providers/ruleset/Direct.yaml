@@ -25,8 +25,8 @@ payload:
   - DOMAIN-KEYWORD,antbank
   - DOMAIN-KEYWORD,ant-hkbank
   # social: vk
-  - DOMAIN-SUFFIX,vk.ru
-  - DOMAIN-SUFFIX,vk.com
+  # - DOMAIN-SUFFIX,vk.ru
+  # - DOMAIN-SUFFIX,vk.com
   # other
   - DOMAIN-SUFFIX,yjys02.com
   - DOMAIN-SUFFIX,codecguide.com
