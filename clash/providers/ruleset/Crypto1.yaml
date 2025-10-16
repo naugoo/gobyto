@@ -17,6 +17,8 @@ payload:
   - DOMAIN-KEYWORD,bybit
   - DOMAIN-KEYWORD,byapps
   - DOMAIN-KEYWORD,byd3c3
+  - DOMAIN-KEYWORD,byapis
+  - DOMAIN-SUFFIX,bycbe.com
   # crypto mexc
   - DOMAIN-SUFFIX,mexcsensors.com
   - DOMAIN-SUFFIX,mexc.co
