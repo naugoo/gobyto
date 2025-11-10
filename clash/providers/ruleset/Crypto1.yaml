@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,bnappzh.co
   - DOMAIN-SUFFIX,bnbstatic.com
   - DOMAIN-SUFFIX,bnbzh.ac
+  - DOMAIN-KEYWORD,bnappweb
   # crypto kraken
   - DOMAIN-SUFFIX,kraken.com
   - DOMAIN-KEYWORD,kraken
