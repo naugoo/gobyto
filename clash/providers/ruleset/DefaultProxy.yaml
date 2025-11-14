@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-KEYWORD,smsactivate
   - DOMAIN-KEYWORD,bocchi
+  - DOMAIN-SUFFIX,palcloud.top
   - DOMAIN-SUFFIX,trello.com
   - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,iexcloud.io
