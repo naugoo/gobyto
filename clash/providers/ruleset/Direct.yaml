@@ -29,6 +29,7 @@ payload:
   # - DOMAIN-SUFFIX,vk.com
   # - DOMAIN-KEYWORD,vkvsd
   # other
+  - DOMAIN-SUFFIX,larksuite.com
   - DOMAIN-SUFFIX,amd.com
   - DOMAIN-SUFFIX,yjys02.com
   - DOMAIN-SUFFIX,codecguide.com
