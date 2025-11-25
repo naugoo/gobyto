@@ -2,9 +2,6 @@ payload:
   # finance ib
   - DOMAIN-SUFFIX,interactivebrokers.com
   - DOMAIN-SUFFIX,ibkr.com
-  # x
-  - DOMAIN-SUFFIX,x.com
-  - DOMAIN-SUFFIX,tunefind.com
   # 微软
   - DOMAIN-SUFFIX,appcenter.ms
   - DOMAIN-SUFFIX,llnwi.net
