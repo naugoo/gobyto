@@ -4,6 +4,8 @@ payload:
   - DOMAIN-SUFFIX,gitbook.com
   - DOMAIN-SUFFIX,gitbook.io
 # develop
+  - DOMAIN-SUFFIX,apache.org
+  - DOMAIN-SUFFIX,maven.org
   - DOMAIN-SUFFIX,sonatype.com
   - DOMAIN-SUFFIX,go.dev
   - DOMAIN-KEYWORD,notepad
