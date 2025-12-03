@@ -112,7 +112,6 @@ payload:
   - DOMAIN-SUFFIX,pstmn.io
   - DOMAIN-SUFFIX,doesitarm.com 
   - DOMAIN-KEYWORD,apache
-  - DOMAIN-SUFFIX,sonatype.com
   - DOMAIN-KEYWORD,maven
   - DOMAIN-KEYWORD,mozilla
   - DOMAIN-KEYWORD,mvnrepository
