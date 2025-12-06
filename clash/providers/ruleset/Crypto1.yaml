@@ -53,13 +53,27 @@ payload:
   - DOMAIN-KEYWORD,phantom
   - DOMAIN-KEYWORD,metamask
   - DOMAIN-KEYWORD,solana
-  - DOMAIN-KEYWORD,tokenterminal
+  # crypto defi
+  - DOMAIN-SUFFIX,debank.com
+  - DOMAIN-KEYWORD,paraswap
+  - DOMAIN-KEYWORD,pancakeswap
+  - DOMAIN-KEYWORD,uniswap
+  # crypto info 
   - DOMAIN-KEYWORD,glassnode
+  - DOMAIN-SUFFIX,chainlist.org
+  - DOMAIN-KEYWORD,tokenterminal
   - DOMAIN-KEYWORD,defillama
   - DOMAIN-SUFFIX,geckoterminal.com
   - DOMAIN-SUFFIX,dune.xyz
   - DOMAIN-SUFFIX,dune.com
-  - DOMAIN-SUFFIX,debank.com
+  - DOMAIN-KEYWORD,zapper
+  - DOMAIN-SUFFIX,footprint.network
+  - DOMAIN-SUFFIX,matters.town
+  - DOMAIN-SUFFIX,bogged.finance
+  - DOMAIN-KEYWORD,rabbithole
+  - DOMAIN-KEYWORD,paradigm
+  - DOMAIN-KEYWORD,tokenpocket
+  - DOMAIN-SUFFIX,airtable.com
   - DOMAIN-SUFFIX,codefi.network
   - DOMAIN-SUFFIX,tomoscan.io
   - DOMAIN-SUFFIX,tomochain.com
@@ -79,7 +93,6 @@ payload:
   - DOMAIN-SUFFIX,chaineye.tools
   - DOMAIN-SUFFIX,matcha.xyz
   - DOMAIN-SUFFIX,defipulse.com
-  - DOMAIN-SUFFIX,embersword.com
   - DOMAIN-SUFFIX,blockscan.com
   - DOMAIN-SUFFIX,talentprotocol.com
   - DOMAIN-SUFFIX,monaconft.io
@@ -100,27 +113,25 @@ payload:
   - DOMAIN-KEYWORD,raydium
   - DOMAIN-KEYWORD,zigzag
   - DOMAIN-SUFFIX,makerdao.com
-  - DOMAIN-KEYWORD,rabbithole
   - DOMAIN-SUFFIX,avax.network
   - DOMAIN-SUFFIX,aave.com
   - DOMAIN-KEYWORD,synapseprotocol
   - DOMAIN-KEYWORD,magicfund
   - DOMAIN-KEYWORD,dextools
-  - DOMAIN-KEYWORD,zapper
   - DOMAIN-KEYWORD,primetrust
   - DOMAIN-SUFFIX,chainnews.com
   - DOMAIN-KEYWORD,upbit
-  - DOMAIN-SUFFIX,chainlist.org
   - DOMAIN-SUFFIX,mtsnft.xyz
-  - DOMAIN-KEYWORD,rarible
-  - DOMAIN-SUFFIX,x2y2.io
+  # nft
   - DOMAIN-KEYWORD,opensea
+  - DOMAIN-KEYWORD,rarible
   - DOMAIN-KEYWORD,looksrare
+  - DOMAIN-SUFFIX,x2y2.io
   - DOMAIN-KEYWORD,metaversealliance
+  # game crypto
   - DOMAIN-SUFFIX,immutable.com
-  - DOMAIN-SUFFIX,gala.games
+  - DOMAIN-SUFFIX,gala.come
   - DOMAIN-SUFFIX,chromia.com
-  - DOMAIN-KEYWORD,bonfida
   - DOMAIN-KEYWORD,tornadocash
   - DOMAIN-SUFFIX,paxos.com
   - DOMAIN-SUFFIX,monkedao.io
@@ -129,18 +140,11 @@ payload:
   - DOMAIN-SUFFIX,staratlas.com
   - DOMAIN-SUFFIX,dagora.xyz
   - DOMAIN-SUFFIX,okcoin.com
-  - DOMAIN-KEYWORD,paraswap
-  - DOMAIN-KEYWORD,pancakeswap
-  - DOMAIN-SUFFIX,uniswap.org
   - DOMAIN-KEYWORD,unmineable
-  - DOMAIN-SUFFIX,mirror.xyz
-  - DOMAIN-KEYWORD,mirror
+  - DOMAIN-KEYWORD,paragraph
   - DOMAIN-SUFFIX,supportxmr
-  - DOMAIN-SUFFIX,bonfida.org
   - DOMAIN-KEYWORD,anyswap
   - DOMAIN-SUFFIX,iswap.com
-  - DOMAIN-KEYWORD,paradigm
-  - DOMAIN-KEYWORD,tokenpocket
   - DOMAIN-KEYWORD,coin98
   - DOMAIN-KEYWORD,arbitrum
   - DOMAIN-KEYWORD,metafi
