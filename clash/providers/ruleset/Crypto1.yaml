@@ -39,6 +39,7 @@ payload:
   - DOMAIN-SUFFIX,pionex.com
   - DOMAIN,pionex.zendesk.com
   - DOMAIN-SUFFIX,pioneerex.org
+  - DOMAIN-KEYWORD,upbit
   # crypto
   - DOMAIN-SUFFIX,transit.finance
   - DOMAIN-SUFFIX,bscscan.com
@@ -53,11 +54,21 @@ payload:
   - DOMAIN-KEYWORD,phantom
   - DOMAIN-KEYWORD,metamask
   - DOMAIN-KEYWORD,solana
+  - DOMAIN-KEYWORD,tornadocash
+  - DOMAIN-SUFFIX,paxos.com
   # crypto defi
   - DOMAIN-SUFFIX,debank.com
-  - DOMAIN-KEYWORD,paraswap
-  - DOMAIN-KEYWORD,pancakeswap
   - DOMAIN-KEYWORD,uniswap
+  - DOMAIN-SUFFIX,sushi.com
+  - DOMAIN-KEYWORD,pancakeswap
+  - DOMAIN-KEYWORD,velora
+  - DOMAIN-KEYWORD,raydium
+  - DOMAIN-SUFFIX,chaineye.tools
+  - DOMAIN-SUFFIX,matcha.xyz
+  - DOMAIN-SUFFIX,makerdao.com
+  - DOMAIN-SUFFIX,aave.com
+  - DOMAIN-KEYWORD,synapseprotocol
+  - DOMAIN-KEYWORD,dextools
   # crypto info 
   - DOMAIN-KEYWORD,glassnode
   - DOMAIN-SUFFIX,chainlist.org
@@ -88,10 +99,7 @@ payload:
   - DOMAIN-SUFFIX,bntrace.com
   - DOMAIN-SUFFIX,web3.career
   - DOMAIN-SUFFIX,remote3.co
-  - DOMAIN-KEYWORD,localmonero
   - DOMAIN,pionex.zendesk.com
-  - DOMAIN-SUFFIX,chaineye.tools
-  - DOMAIN-SUFFIX,matcha.xyz
   - DOMAIN-SUFFIX,defipulse.com
   - DOMAIN-SUFFIX,blockscan.com
   - DOMAIN-SUFFIX,talentprotocol.com
@@ -109,18 +117,8 @@ payload:
   - DOMAIN-SUFFIX,moonbeam.network
   - DOMAIN-SUFFIX,eosnetwork.com
   - DOMAIN-SUFFIX,ninicoin.io
-  - DOMAIN-SUFFIX,sushi.com
-  - DOMAIN-KEYWORD,raydium
-  - DOMAIN-KEYWORD,zigzag
-  - DOMAIN-SUFFIX,makerdao.com
   - DOMAIN-SUFFIX,avax.network
-  - DOMAIN-SUFFIX,aave.com
-  - DOMAIN-KEYWORD,synapseprotocol
-  - DOMAIN-KEYWORD,magicfund
-  - DOMAIN-KEYWORD,dextools
-  - DOMAIN-KEYWORD,primetrust
   - DOMAIN-SUFFIX,chainnews.com
-  - DOMAIN-KEYWORD,upbit
   - DOMAIN-SUFFIX,mtsnft.xyz
   # nft
   - DOMAIN-KEYWORD,opensea
@@ -132,8 +130,6 @@ payload:
   - DOMAIN-SUFFIX,immutable.com
   - DOMAIN-SUFFIX,gala.come
   - DOMAIN-SUFFIX,chromia.com
-  - DOMAIN-KEYWORD,tornadocash
-  - DOMAIN-SUFFIX,paxos.com
   - DOMAIN-SUFFIX,monkedao.io
   - DOMAIN-SUFFIX,magiceden.io
   - DOMAIN-SUFFIX,orca.so
