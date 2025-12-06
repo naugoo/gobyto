@@ -21,6 +21,7 @@ payload:
   - DOMAIN-SUFFIX,filehorse.com
   - DOMAIN-SUFFIX,wintun.net
 # other
+  - DOMAIN-SUFFIX,gravatar.com
   - DOMAIN-SUFFIX,xlys.me
   - DOMAIN-SUFFIX,evernote.com
   - DOMAIN-SUFFIX,yysub.cc
@@ -41,6 +42,11 @@ payload:
   - DOMAIN-SUFFIX,darkreader.org
   - DOMAIN-SUFFIX,ipfri.com
   - DOMAIN-SUFFIX,ipify.org
+  - DOMAIN-KEYWORD,unsplash
+  - DOMAIN-KEYWORD,wallhaven
+  - DOMAIN-KEYWORD,alphacoders
+  - DOMAIN-KEYWORD,wallpaperenginefree
+  - DOMAIN-SUFFIX,xslist.org
 # blog
   - DOMAIN-SUFFIX,qichiyu.com
   - DOMAIN-KEYWORD,bulianglin.com
