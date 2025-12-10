@@ -20,6 +20,7 @@ payload:
   - DOMAIN-SUFFIX,spotifycdn.com
   - DOMAIN-SUFFIX,spotifycdn.net
   # 其他
+  - DOMAIN-KEYWORD,pocketcasts
   - DOMAIN-KEYWORD,leetcode
   - DOMAIN-SUFFIX,coinbase.com
   - DOMAIN-KEYWORD,liveperson

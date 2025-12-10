@@ -30,9 +30,7 @@ payload:
   - DOMAIN-SUFFIX,obsproject.com
   - DOMAIN-SUFFIX,openwebtorrent.com
   - DOMAIN-SUFFIX,internetdownloadmanager.com
-  - DOMAIN-SUFFIX,id9.cc
   - DOMAIN,api.dler.io
-  - DOMAIN-KEYWORD,v2ex
   - DOMAIN-KEYWORD,wisecleaner
   - DOMAIN-SUFFIX,bugsnag.com
   - DOMAIN-SUFFIX,unpkg.com
