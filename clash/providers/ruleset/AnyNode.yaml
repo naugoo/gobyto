@@ -21,6 +21,7 @@ payload:
   - DOMAIN-SUFFIX,filehorse.com
   - DOMAIN-SUFFIX,wintun.net
 # other
+  - DOMAIN,plugins.jetbrains.com
   - DOMAIN-SUFFIX,gravatar.com
   - DOMAIN-SUFFIX,xlys.me
   - DOMAIN-SUFFIX,evernote.com
