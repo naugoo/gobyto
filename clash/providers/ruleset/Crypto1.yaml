@@ -74,6 +74,7 @@ payload:
   - DOMAIN-SUFFIX,jup.ag
   - DOMAIN-KEYWORD,hyperliquid
   - DOMAIN-SUFFIX,ave.ai
+  - DOMAIN-KEYWORD,ave.s3
   - DOMAIN-SUFFIX,avegac.com
   - DOMAIN-SUFFIX,aveipcheck.xyz
   - DOMAIN-KEYWORD,anyswap
