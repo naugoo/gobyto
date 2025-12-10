@@ -16,7 +16,8 @@ payload:
   # crypto bybit
   - DOMAIN-SUFFIX,bybit.com
   - DOMAIN-KEYWORD,bybit
-  - DOMAIN-KEYWORD,byapps
+  - DOMAIN-SUFFIX,byabcde.com
+  - DOMAIN-SUFFIX,byapps.net
   - DOMAIN-KEYWORD,byd3c3
   - DOMAIN-KEYWORD,byapis
   - DOMAIN-SUFFIX,bycbe.com
