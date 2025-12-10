@@ -69,6 +69,15 @@ payload:
   - DOMAIN-SUFFIX,aave.com
   - DOMAIN-KEYWORD,synapseprotocol
   - DOMAIN-KEYWORD,dextools
+  - DOMAIN-SUFFIX,polymarket.com
+  - DOMAIN-KEYWORD,polygon-mainnet
+  - DOMAIN-SUFFIX,jup.ag
+  - DOMAIN-KEYWORD,hyperliquid
+  - DOMAIN-SUFFIX,ave.ai
+  - DOMAIN-SUFFIX,avegac.com
+  - DOMAIN-SUFFIX,aveipcheck.xyz
+  - DOMAIN-KEYWORD,anyswap
+  - DOMAIN-SUFFIX,iswap.com
   # crypto info 
   - DOMAIN-KEYWORD,glassnode
   - DOMAIN-SUFFIX,chainlist.org
@@ -139,8 +148,6 @@ payload:
   - DOMAIN-KEYWORD,unmineable
   - DOMAIN-KEYWORD,paragraph
   - DOMAIN-SUFFIX,supportxmr
-  - DOMAIN-KEYWORD,anyswap
-  - DOMAIN-SUFFIX,iswap.com
   - DOMAIN-KEYWORD,coin98
   - DOMAIN-KEYWORD,arbitrum
   - DOMAIN-KEYWORD,metafi
