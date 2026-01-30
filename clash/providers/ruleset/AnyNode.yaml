@@ -58,6 +58,7 @@ payload:
   - DOMAIN-SUFFIX,vk.com
   - DOMAIN-KEYWORD,vkvsd
   # porn
+  - DOMAIN-KEYWORD,javday
   - DOMAIN-SUFFIX,034222.xyz
   - DOMAIN-SUFFIX,ck2025001.com
   - DOMAIN-SUFFIX,2006ck.cc
