@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN-KEYWORD,chatjimmy
   - DOMAIN-SUFFIX,learnprompting.org
   - DOMAIN-SUFFIX,chatdoc.com
   - DOMAIN-SUFFIX,dify.ai
