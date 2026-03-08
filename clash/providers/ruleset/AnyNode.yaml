@@ -1,4 +1,6 @@
 payload:
+  - IP-CIDR,8.8.8.8/32,no-resolve
+  - IP-CIDR,9.9.9.9/32,no-resolve
 # github
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,gitbook.com
