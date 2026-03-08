@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN,dns.google
   - IP-CIDR,8.8.8.8/32,no-resolve
   - IP-CIDR,9.9.9.9/32,no-resolve
 # github
@@ -33,7 +34,6 @@ payload:
   - DOMAIN-SUFFIX,obsproject.com
   - DOMAIN-SUFFIX,openwebtorrent.com
   - DOMAIN-SUFFIX,internetdownloadmanager.com
-  - DOMAIN,api.dler.io
   - DOMAIN-KEYWORD,wisecleaner
   - DOMAIN-SUFFIX,bugsnag.com
   - DOMAIN-SUFFIX,unpkg.com
