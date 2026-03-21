@@ -48,6 +48,7 @@ payload:
   - DOMAIN-KEYWORD,alphacoders
   - DOMAIN-KEYWORD,wallpaperenginefree
   - DOMAIN-SUFFIX,xslist.org
+  - DOMAIN-SUFFIX,allawnos.com
 # blog
   - DOMAIN-SUFFIX,qichiyu.com
   - DOMAIN-KEYWORD,bulianglin.com
