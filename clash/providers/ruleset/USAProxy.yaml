@@ -2,7 +2,7 @@ payload:
   # finance ib
   - DOMAIN-SUFFIX,interactivebrokers.com
   - DOMAIN-SUFFIX,ibkr.com
-  - DOMAIN-SUFFIX,us.moomoo.com
+  - DOMAIN-SUFFIX,moomoo.com
   # 微软
   - DOMAIN-SUFFIX,appcenter.ms
   - DOMAIN-SUFFIX,llnwi.net
