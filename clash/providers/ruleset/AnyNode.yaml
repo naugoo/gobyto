@@ -24,6 +24,7 @@ payload:
   - DOMAIN-SUFFIX,filehorse.com
   - DOMAIN-SUFFIX,wintun.net
 # other
+  - DOMAIN-KEYWORD,appdynamics
   - DOMAIN-SUFFIX,codecguide.com
   - DOMAIN-KEYWORD,z-lib
   - DOMAIN,plugins.jetbrains.com
