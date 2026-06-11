@@ -6,6 +6,7 @@ payload:
   # 中银香港
   - DOMAIN-SUFFIX,bochk.com
   # ZA Bank (众安)
+  - DOMAIN-SUFFIX,zainvest.group
   - DOMAIN-SUFFIX,zafinsvc.com
   - DOMAIN-SUFFIX,za.group
   - DOMAIN-SUFFIX,zajourney.com
