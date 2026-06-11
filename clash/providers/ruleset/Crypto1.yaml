@@ -44,6 +44,7 @@ payload:
   - DOMAIN-SUFFIX,pioneerex.org
   - DOMAIN-KEYWORD,upbit
   # crypto
+  - DOMAIN-SUFFIX,appsflyersdk.com
   - DOMAIN-SUFFIX,transit.finance
   - DOMAIN-SUFFIX,bscscan.com
   - DOMAIN-KEYWORD,etherscan
