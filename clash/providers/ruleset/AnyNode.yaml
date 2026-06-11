@@ -25,7 +25,6 @@ payload:
   - DOMAIN-SUFFIX,wintun.net
 # other
   - DOMAIN-SUFFIX,codecguide.com
-  - DOMAIN-SUFFIX,bitdrift.io
   - DOMAIN-KEYWORD,z-lib
   - DOMAIN,plugins.jetbrains.com
   - DOMAIN-SUFFIX,gravatar.com
