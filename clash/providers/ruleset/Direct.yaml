@@ -8,6 +8,7 @@ payload:
   # - DOMAIN-SUFFIX,mexcsensors.com
   # finaince
   # 老虎证券
+  - DOMAIN-SUFFIX,tigerfintech.com
   - DOMAIN-SUFFIX,laohu8.com
   - DOMAIN-SUFFIX,tigersecurities.com
   # 富途证券
