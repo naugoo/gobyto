@@ -22,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,spotifycdn.net
   # 其他
   - DOMAIN-SUFFIX,x.com
+  - DOMAIN-SUFFIX,twitter.com
   - DOMAIN-SUFFIX,twimg.com
   - DOMAIN-KEYWORD,pocketcasts
   - DOMAIN-KEYWORD,leetcode
