@@ -22,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,spotifycdn.net
   # 其他
   - DOMAIN-SUFFIX,tiktokv.us
+  - DOMAIN-SUFFIX,ttcdn-us.com
   - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,twitter.com
   - DOMAIN-SUFFIX,twimg.com
