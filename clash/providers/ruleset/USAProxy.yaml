@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,xboxlive.com
   - DOMAIN-SUFFIX,xboxab.com
   - DOMAIN-SUFFIX,xboxservices.com
+  - DOMAIN-SUFFIX,clarity.ms
   # roblox
   - DOMAIN-SUFFIX,roblox.com
   # spotify
