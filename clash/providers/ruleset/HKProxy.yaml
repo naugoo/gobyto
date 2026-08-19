@@ -1,5 +1,7 @@
 payload:
   # 长桥
+  - DOMAIN-SUFFIX,wbrks.com
+  - DOMAIN-KEYWORD,longbridge
   - DOMAIN-SUFFIX,longbridgeapp.com
   # 香港汇丰银行
   - DOMAIN-SUFFIX,hsbc.com.hk
