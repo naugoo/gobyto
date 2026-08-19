@@ -40,6 +40,7 @@ payload:
   - DOMAIN,ai.facebook.com
   # gemini
   - DOMAIN-KEYWORD,generativelanguage
+  - DOMAIN,gemini.gstatic.com
   - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN-SUFFIX,bard.google.com
   - DOMAIN,aistudio.google.com
