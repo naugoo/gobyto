@@ -7,6 +7,7 @@ payload:
   - DOMAIN-SUFFIX,gitbook.com
   - DOMAIN-SUFFIX,gitbook.io
 # develop
+  - DOMAIN-SUFFIX,obsproject.com
   - DOMAIN-SUFFIX,apache.org
   - DOMAIN-SUFFIX,maven.org
   - DOMAIN-SUFFIX,sonatype.com
